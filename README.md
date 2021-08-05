@@ -1,6 +1,6 @@
 # Pi Base Image - Setup
 
-Get it here: 
+Get it here : https://drive.google.com/file/d/1WhghL3JT-PGkGkTl-3FhpcrApLEWV69Y/view?usp=sharing (`.tar.gz` file, uncompress and use the image inside to burn to an SD card with something like etcher)
 
 This is my enhanced version of Raspberry Pi OS (https://www.raspberrypi.org/software/). I've started with the minimal version from that page and added:
 
